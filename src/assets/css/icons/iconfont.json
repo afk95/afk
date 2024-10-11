@@ -1,0 +1,72 @@
+{
+  "id": "3498574",
+  "name": "铂铜生物",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30818720",
+      "name": "问题",
+      "font_class": "wenti",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "30818779",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "30645423",
+      "name": "收藏选中-copy",
+      "font_class": "addcollection",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "1304939",
+      "name": "收藏选中",
+      "font_class": "collection",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "538866",
+      "name": "链接",
+      "font_class": "yqlj",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "11372758",
+      "name": "点赞",
+      "font_class": "cptj",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "24600439",
+      "name": "qt",
+      "font_class": "cpfl",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1305",
+      "name": "购物车满",
+      "font_class": "cart",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "11808034",
+      "name": "批量下单",
+      "font_class": "order",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    }
+  ]
+}
